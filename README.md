@@ -12,9 +12,9 @@
 <h3 align="left">Connect with me :</h3>
 
 <p align="left">
-<a href="https://twitter.com/khodewmj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madeby_amir" height="30" width="40" /></a>
+<a href="https://twitter.com/mamadz_org" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madeby_amir" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohammad-jafari-a28290324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirrahemi" height="30" width="40" /></a>
-<a href="https://instagram.com/khodewmj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amirrahemiii" height="30" width="40" /></a>
+<a href="https://instagram.com/mamadz_org" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amirrahemiii" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools :</h3>
