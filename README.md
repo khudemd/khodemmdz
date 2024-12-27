@@ -1,6 +1,5 @@
 <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" alt="soura-banner">
 
-
 <h1 align="center"> Hi there, I'm<a href="https://www.linkedin.com/in/tanay-das-/" target="_blank"> Mohammad Jafari </a>
 <h3 align="center"><i>A Passionate Frontend Developer From Iran</i></h3>
 <img align="right" alt="Coding" width="300" src="https://valesh.dev/images/coder.gif">
@@ -39,13 +38,15 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://docs.github.com/)
 [![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)](https://www.figma.com/resources/learn-design/)
 
-#### Operating System
+<a href=#><img src="./contributions.svg"></a>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<!-- #### Operating System
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) -->
 
 
-## 📊 GitHub Stats :
+<!-- ## 📊 GitHub Stats :
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khodemmdz&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=khodemmdz&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khodemmdz&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khodemmdz&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
